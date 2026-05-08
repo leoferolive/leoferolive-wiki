@@ -18,7 +18,7 @@ multi-pod na Wiley).
 ## Onde foi aplicado
 - [[entities/lumis]] (2018-2019): microsserviços em **OpenShift** para
   SulAmérica.
-- [[entities/ebix]] (2019-2024): BFF (Backend for Frontend) sobre P8 FileNet,
+- [[entities/ebix-latam]] (2019-2024): BFF (Backend for Frontend) sobre P8 FileNet,
   integrações distribuídas com SAP e WebSphere 8/9.
 - [[entities/wiley]] (2024+): plataforma multi-pod em Kubernetes com SSE +
   Redis Pub/Sub.

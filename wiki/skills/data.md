@@ -24,7 +24,7 @@ DB2, SQL Server) vinda do contexto Bradesco/Ebix, e stack moderna (PostgreSQL
 ## Onde foram aplicadas
 - [[entities/wiley]] — Redis Pub/Sub para SSE multi-pod; PostgreSQL +
   Pgvector na plataforma RAG.
-- [[entities/ebix]] — bancos enterprise (Oracle/DB2/SQL Server) no domínio
+- [[entities/ebix-latam]] — bancos enterprise (Oracle/DB2/SQL Server) no domínio
   de Sinistros.
 - [[projects/nossalista]] / [[projects/nossagrana]] — PostgreSQL.
 

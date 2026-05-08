@@ -25,7 +25,7 @@ event-driven, BFF e APIs em tempo real (SSE)**.
 
 ## Onde foram aplicadas
 - [[entities/wiley]] — Java 25 + Spring Boot 4, SSE em escala.
-- [[entities/ebix]] — BFF sobre P8 FileNet, Java/Spring legacy + WebSphere.
+- [[entities/ebix-latam]] — BFF sobre P8 FileNet, Java/Spring legacy + WebSphere.
 - [[entities/lumis]] — microsserviços em OpenShift.
 - [[projects/nossalista]] — Java 25 + Spring Boot 4 em projeto pessoal.
 
