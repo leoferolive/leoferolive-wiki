@@ -18,7 +18,7 @@ consumidas pelo retriever (peso 2× no scoring) e espelham o frontmatter
 de cada página.
 
 ## Perfil
-- [Sobre Leonardo](about.md) — Leonardo Ferreira Oliveira, 35 anos (nasc. 29/11/1990); resumo profissional e identidade. [perfil, sobre, identidade, leonardo, ferreira, oliveira]
+- [Sobre Leonardo](about.md) — Leonardo Fernandes Oliveira, 35 anos (nasc. 29/11/1990); resumo profissional e identidade. [perfil, sobre, identidade, leonardo, fernandes, oliveira]
 
 ## Entidades
 - [Wiley](entities/wiley.md) — empresa atual (Dez 2024+); plataforma UAXD com 10k+ autores; Senior SE liderando 4 iniciativas de IA em produção. [empresa, atual, ai-first, sse, rag, kubernetes, uaxd, senior]

@@ -59,6 +59,11 @@ Adicionada `wiki/about.md` com identidade do Leonardo:
 - Data de nascimento: 29/11/1990 (35 anos em 2026-05-08).
 Nova seção "Perfil" no `index.md` apontando para `about.md`.
 
+## [2026-05-08] fix | sobrenome correto
+Correção do sobrenome em `wiki/about.md` e `wiki/index.md`: era
+"Ferreira" (errado), agora "Fernandes" (correto). Tag inline no index
+também atualizada.
+
 ## [2026-05-08] refactor | index.md tags inline
 Adicionadas tags inline `[tag1, tag2, ...]` no fim de cada linha do
 `index.md`, espelhando o frontmatter de cada página. Motivação: o

@@ -9,7 +9,7 @@ sources:
 # Sobre Leonardo
 
 ## Identidade
-- **Nome completo:** Leonardo Ferreira Oliveira.
+- **Nome completo:** Leonardo Fernandes Oliveira.
 - **Data de nascimento:** 29/11/1990.
 - **Idade:** 35 anos (em 2026-05-08).
 
