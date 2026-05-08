@@ -58,3 +58,13 @@ Adicionada `wiki/about.md` com identidade do Leonardo:
 - Nome completo: Leonardo Ferreira Oliveira.
 - Data de nascimento: 29/11/1990 (35 anos em 2026-05-08).
 Nova seção "Perfil" no `index.md` apontando para `about.md`.
+
+## [2026-05-08] refactor | index.md tags inline
+Adicionadas tags inline `[tag1, tag2, ...]` no fim de cada linha do
+`index.md`, espelhando o frontmatter de cada página. Motivação: o
+`Retriever` do `chat-api` (`app/retriever.py`) consome as tags do index
+com peso 2× no scoring (vs. 3× título, 1× summary, 0.5× body capado).
+Sem as tags inline, esse sinal estava sendo desperdiçado.
+
+Tags na entrada do perfil incluem `leonardo`, `ferreira`, `oliveira`
+para responder a queries que perguntam pelo nome.
