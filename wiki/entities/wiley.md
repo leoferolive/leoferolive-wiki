@@ -1,25 +1,27 @@
 ---
 title: Wiley
-tags: [empresa, atual, ai-first, sse, rag, kubernetes]
-last_updated: 2026-05-06
+tags: [empresa, ai-first, sse, rag, kubernetes]
+last_updated: 2026-09-03
 sources:
   - leoferolive.com.br/src/data/career.ts
   - leoferolive.com.br/src/data/cases.ts
   - leoferolive.com.br/src/i18n/pt.ts
+  - conversa-direta-2026-09-03
 ---
 
 # Wiley
 
 ## Resumo
-Empresa atual do Leonardo (desde dezembro de 2024), atuando como Senior Software
-Engineer na plataforma **UAXD**, que serve mais de 10 mil autores globalmente.
-É também o palco onde concentra liderança em iniciativas de IA em produção.
+Empresa onde o Leonardo atuou de dezembro de 2024 a junho de 2026, como Senior
+Software Engineer na plataforma **UAXD**, que serve mais de 10 mil autores
+globalmente. Foi também o palco onde concentrou liderança em iniciativas de
+IA em produção antes de migrar para a CI&T.
 
 ## Período / Detalhes
-- **Período:** Dez 2024 → presente.
+- **Período:** Dez 2024 → Jun 2026 (1 ano e 6 meses).
 - **Cargo:** Senior Software Engineer.
 - **Escopo:** Plataforma UAXD (Author Experience), 10k+ autores globalmente.
-- **Status:** in progress.
+- **Status:** concluído.
 
 ## Tecnologias
 - Java 25, Spring Boot 4.
@@ -49,3 +51,4 @@ Engineer na plataforma **UAXD**, que serve mais de 10 mil autores globalmente.
 - [[concepts/kubernetes]] — multi-pod onde a SSE roda.
 - [[skills/ai]] — skills aplicadas no dia-a-dia.
 - [[skills/backend]] — Java 25 + Spring Boot 4.
+- [[entities/ci-t]] — empresa seguinte (Jun 2026+).

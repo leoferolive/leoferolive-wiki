@@ -73,3 +73,30 @@ Sem as tags inline, esse sinal estava sendo desperdiçado.
 
 Tags na entrada do perfil incluem `leonardo`, `ferreira`, `oliveira`
 para responder a queries que perguntam pelo nome.
+
+## [2026-09-03] ingest | conversa-direta
+Atualização de carreira: saída da Wiley e entrada na CI&T.
+
+Mudanças estruturais:
+- `entities/wiley.md`: período fechado (Dez 2024 → Jun 2026), status
+  "concluído", tag `atual` removida.
+- **Nova entity `entities/ci-t.md`:** CI&T, Jun 2026 → presente, cargo
+  Senior AI Software Engineer, alocado no cliente Agibank (área de IA).
+  Atua em infraestrutura de IA (LiteLLM, LibreChat, AI Gateway) e na
+  construção de um portal unificado/centralizado de IA para a área.
+- **Novo concept `concepts/ai-gateway.md`:** AI Gateway / Infraestrutura
+  de LLM — LiteLLM, LibreChat, AI Gateway como camada de proxy/governança
+  de LLMs, aplicada na CI&T/Agibank.
+- `skills/ai.md`: adicionados LiteLLM, LibreChat, AI Gateway aos itens;
+  nova entrada "onde foi aplicada" para CI&T/Agibank; cross-ref para
+  `concepts/ai-gateway`.
+- `about.md`: trajetória profissional atualizada com CI&T como empresa
+  atual; cross-references ajustadas.
+- `index.md`: CI&T adicionada no topo de Entidades (atual); Wiley com
+  período fechado; novo concept `ai-gateway` listado; entrada de
+  `skills/ai` atualizada com os novos itens.
+
+Fonte: relato direto do Leonardo em conversa. Detalhes não informados
+(datas exatas de início na CI&T além de "Jun 2026", tamanho de time,
+métricas do portal) foram deixados de fora — a preencher em ingest
+futuro se/quando disponíveis.

@@ -1,7 +1,7 @@
 ---
 title: Index
 tags: [index, catalogo]
-last_updated: 2026-05-08
+last_updated: 2026-09-03
 sources:
   - wiki/entities/*
   - wiki/projects/*
@@ -21,7 +21,8 @@ de cada página.
 - [Sobre Leonardo](about.md) — Leonardo Fernandes Oliveira, 35 anos (nasc. 29/11/1990); resumo profissional e identidade. [perfil, sobre, identidade, leonardo, fernandes, oliveira]
 
 ## Entidades
-- [Wiley](entities/wiley.md) — empresa atual (Dez 2024+); plataforma UAXD com 10k+ autores; Senior SE liderando 4 iniciativas de IA em produção. [empresa, atual, ai-first, sse, rag, kubernetes, uaxd, senior]
+- [CI&T](entities/ci-t.md) — empresa atual (Jun 2026+); Senior AI Software Engineer alocado no Agibank (área de IA); infra de LLM (LiteLLM, LibreChat, AI Gateway) e portal unificado de IA. [empresa, atual, ai-first, ai-gateway, litellm, librechat, agibank, senior]
+- [Wiley](entities/wiley.md) — Dez 2024 → Jun 2026; plataforma UAXD com 10k+ autores; Senior SE liderando 4 iniciativas de IA em produção. [empresa, ai-first, sse, rag, kubernetes, uaxd, senior]
 - [City Connect](entities/city-connect.md) — Ago–Dez 2024, Líder de Projetos no contrato TCE-PR (Lumis Portal + app mobile), squad de 8 devs. [empresa, lideranca, lumis-portal, tce-pr, governo, transicao]
 - [Ebix América Latina](entities/ebix-latam.md) — Jun 2019 → Jul 2024, Sênior / referência técnica no Bradesco · Sinistro RE; SAP, SRO, BFF P8 FileNet, primeiro uso profissional de IA (ChatGPT/Fortify). [empresa, senior, referencia-tecnica, bradesco, sinistro-re, websphere, fortify, chatgpt]
 - [Lumis](entities/lumis.md) — Out 2018 → Mai 2019, SulAmérica; primeiro contato com micro-frontend (Vue.js), OpenShift e OAuth2 (impersonação). [empresa, microservicos, micro-frontend, openshift, sulamerica, oauth2]
@@ -41,11 +42,12 @@ de cada página.
 - [Microservices](concepts/microservices.md) — paradigma central, aplicado de BFF legacy (Ebix) a multi-pod cloud-native (Wiley). [conceito, backend, arquitetura, kubernetes]
 - [Kubernetes](concepts/kubernetes.md) — três escalas: AWS EKS (Wiley), OpenShift (Lumis), K3s (homelab). [conceito, devops, infra, k8s, k3s, openshift]
 - [Kafka](concepts/kafka.md) — listado no stack backend, alinhado ao paradigma event-driven; cases específicos a serem expandidos. [conceito, backend, event-driven, mensageria]
+- [AI Gateway / Infraestrutura de LLM](concepts/ai-gateway.md) — proxy/gateway unificado (LiteLLM, AI Gateway) + interface de chat corporativa (LibreChat), aplicado na CI&T/Agibank. [conceito, ai, infra, ai-gateway, litellm, librechat, llmops]
 - [Sinistro RE](concepts/sinistro-re.md) — domínio de negócio Bradesco que atravessa Capgemini → Persist → Ebix (2017-2018) → Ebix LATAM (2019-2024). [dominio, seguros, bradesco, sustentacao, regulatorio]
 - [OAuth2](concepts/oauth2.md) — trajetória de autenticação moderna: impersonação (Lumis) e Client Credentials (BFF P8 FileNet, Ebix LATAM). [autenticacao, oauth2, seguranca, backend]
 
 ## Skills
-- [Skills · ai/](skills/ai.md) — Spring AI, Pgvector, Azure OpenAI, MCP, Claude Code, Cursor, ChatGPT, Codex, BMAD, RAG. [skills, ai, llm, rag, mcp, agentic]
+- [Skills · ai/](skills/ai.md) — Spring AI, Pgvector, Azure OpenAI, MCP, Claude Code, Cursor, ChatGPT, Codex, BMAD, RAG, LiteLLM, LibreChat, AI Gateway. [skills, ai, llm, rag, mcp, agentic, ai-gateway, litellm]
 - [Skills · backend/](skills/backend.md) — Java 8-25, Spring Boot 4, Microservices, BFF, Event-driven, Kafka, REST + SSE, OIDC. [skills, backend, java, spring, microservicos, kafka, sse]
 - [Skills · data/](skills/data.md) — PostgreSQL, MongoDB, Redis, SQL Server, Oracle, DB2. [skills, data, postgres, mongodb, redis, sql-server, oracle, db2]
 - [Skills · devops/](skills/devops.md) — AWS EKS, Kubernetes, K3s, Helm, Docker, GitHub Actions, Jenkins, Cloudflare Tunnel, Tailscale, Traefik. [skills, devops, kubernetes, k3s, aws-eks, helm, docker, ci-cd]
